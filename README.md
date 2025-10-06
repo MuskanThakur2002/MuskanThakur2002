@@ -18,9 +18,7 @@
 
 - ⚡ Fun fact **I am funny**
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MuskanThakur2002&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -30,20 +28,15 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muskanthakur2002&show_icons=true&locale=en&layout=compact" alt="muskanthakur2002" /></p>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<!-- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muskanthakur2002&show_icons=true&locale=en" alt="muskanthakur2002" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muskanthakur2002&show_icons=true&locale=en" alt="muskanthakur2002" /></p> -->
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+ <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanthakur2002&" alt="muskanthakur2002" /></p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h3 align="left">Snack eating my contribution</h3>
-
-![snake gif](https://github.com/MuskanThakur2002/MuskanThakur2002/blob/output/github-contribution-grid-snake.gif)
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
